@@ -1,7 +1,7 @@
 # ImageBed
-### This is the imagebed1
+**This is the imagebed1**
 
-![PicGo](https://cdn.jsdelivr.net/gh/north151/ImageBed/image1/20220129233105.png)
+![For example](https://github.com/north151/ImageBed1/blob/main/image_Linux/backiee-208791-landscape.jpg)
 
 
 
