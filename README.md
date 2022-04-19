@@ -1,16 +1,17 @@
-# ImageBed
-**This is the imagebed1.**
 
+#  Linux Typora PicGO 配置
+<br>
 
-## For Linux
+#### 1.选择 PicGo-Core(command line)
+<br>
 
-1.选择 PicGo-Core(command line)
+#### 2.点击  "下载或更新"
+```
+Typora PicGo-Core(command line)    [注意：github  默认使用 githubPlus插件]
+```
+<br>
 
-2.点击  "下载或更新"
-
-（Typora PicGo-Core(command line) github  默认使用 githubPlus插件）
-
-3.配置PicGo
+#### 3.配置PicGo
 
 ```
 cd /home/用户名/.config/Typora/picgo/linux
@@ -34,8 +35,9 @@ origin ：github
 picgo use uploader
 ```
 
-<br/>
-配置完成配置文件模板
+<br/><br>
+**配置文件模板**
+<br>
 
 ```
 {
